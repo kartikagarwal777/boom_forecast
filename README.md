@@ -111,6 +111,8 @@ Insight: At medium granularities, deep learning starts to capture meaningful tem
 
 Insight: For coarser-grained metrics, seasonality-aware baselines are very effective, but transformers provide interpretability and robustness when multi-metric forecasting is needed.
 
+![alt text]([http://url/to/img.png](https://github.com/kartikagarwal777/boom_forecast/blob/main/rmse_comparison.png))
+
 # 6 Final Suggestions
 
 Persistence: Best suited for volatile high-frequency series (10s-level).
