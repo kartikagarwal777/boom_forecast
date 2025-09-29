@@ -1,0 +1,193 @@
+dataset_id,term,dataset,model,rmse,domain,num_variates
+ds-2-5T,short,ds-2-5T/Short/short,persistence,3.7558261707719383,['Database'],91
+ds-2-5T,short,ds-2-5T/Short/short,seasonalnaive,9.173731198062264,['Database'],91
+ds-2-5T,short,ds-2-5T/Short/short,lstm,8.417091862866574,['Database'],91
+ds-2-5T,short,ds-2-5T/Short/short,tft,11.34900958679613,['Database'],91
+ds-2-5T,medium,ds-2-5T/Short/medium,persistence,5.922764989077931,['Database'],91
+ds-2-5T,medium,ds-2-5T/Short/medium,seasonalnaive,6.25843135510463,['Database'],91
+ds-2-5T,medium,ds-2-5T/Short/medium,lstm,5.549500697353478,['Database'],91
+ds-2-5T,medium,ds-2-5T/Short/medium,tft,7.137819824054074,['Database'],91
+ds-2-5T,long,ds-2-5T/Short/long,persistence,5.299555003828187,['Database'],91
+ds-2-5T,long,ds-2-5T/Short/long,seasonalnaive,5.095994460766176,['Database'],91
+ds-2-5T,long,ds-2-5T/Short/long,lstm,5.378167635769373,['Database'],91
+ds-2-5T,long,ds-2-5T/Short/long,tft,6.420325653877029,['Database'],91
+ds-4-5T,short,ds-4-5T/Short/short,persistence,1.0118395824516,['Application Usage'],31
+ds-4-5T,short,ds-4-5T/Short/short,seasonalnaive,1.0477990274853894,['Application Usage'],31
+ds-4-5T,short,ds-4-5T/Short/short,lstm,0.7703340952984791,['Application Usage'],31
+ds-4-5T,short,ds-4-5T/Short/short,tft,0.7494940907532845,['Application Usage'],31
+ds-4-5T,medium,ds-4-5T/Short/medium,persistence,1.012165539085632,['Application Usage'],31
+ds-4-5T,medium,ds-4-5T/Short/medium,seasonalnaive,1.0984043155826508,['Application Usage'],31
+ds-4-5T,medium,ds-4-5T/Short/medium,lstm,1.094308073350554,['Application Usage'],31
+ds-4-5T,medium,ds-4-5T/Short/medium,tft,0.7864998342322215,['Application Usage'],31
+ds-4-5T,long,ds-4-5T/Short/long,persistence,0.9863253283975132,['Application Usage'],31
+ds-4-5T,long,ds-4-5T/Short/long,seasonalnaive,1.0721282488776784,['Application Usage'],31
+ds-4-5T,long,ds-4-5T/Short/long,lstm,0.7449333853313614,['Application Usage'],31
+ds-4-5T,long,ds-4-5T/Short/long,tft,0.7463985285503933,['Application Usage'],31
+ds-6-5T,short,ds-6-5T/Short/short,persistence,0.796445560356274,['Infrastructure'],23
+ds-6-5T,short,ds-6-5T/Short/short,seasonalnaive,1.180437805773025,['Infrastructure'],23
+ds-6-5T,short,ds-6-5T/Short/short,lstm,1.607678429396961,['Infrastructure'],23
+ds-6-5T,short,ds-6-5T/Short/short,tft,1.984577011000223,['Infrastructure'],23
+ds-6-5T,medium,ds-6-5T/Short/medium,persistence,1.219263964704026,['Infrastructure'],23
+ds-6-5T,medium,ds-6-5T/Short/medium,seasonalnaive,1.243866931657379,['Infrastructure'],23
+ds-6-5T,medium,ds-6-5T/Short/medium,lstm,1.3177824195461654,['Infrastructure'],23
+ds-6-5T,medium,ds-6-5T/Short/medium,tft,1.735974707805763,['Infrastructure'],23
+ds-6-5T,long,ds-6-5T/Short/long,persistence,1.429006375898954,['Infrastructure'],23
+ds-6-5T,long,ds-6-5T/Short/long,seasonalnaive,1.3677011989265375,['Infrastructure'],23
+ds-6-5T,long,ds-6-5T/Short/long,lstm,1.3395121683788858,['Infrastructure'],23
+ds-6-5T,long,ds-6-5T/Short/long,tft,1.8870656473070504,['Infrastructure'],23
+ds-0-T,short,ds-0-T/Short/short,persistence,0.6905158444442546,"['Networking', 'Application Usage']",1
+ds-0-T,short,ds-0-T/Short/short,seasonalnaive,0.6800034062917327,"['Networking', 'Application Usage']",1
+ds-0-T,short,ds-0-T/Short/short,lstm,0.6918501583740894,"['Networking', 'Application Usage']",1
+ds-0-T,short,ds-0-T/Short/short,tft,0.679179244909846,"['Networking', 'Application Usage']",1
+ds-0-T,medium,ds-0-T/Short/medium,persistence,0.4796713977903211,"['Networking', 'Application Usage']",1
+ds-0-T,medium,ds-0-T/Short/medium,seasonalnaive,0.5032230763378397,"['Networking', 'Application Usage']",1
+ds-0-T,medium,ds-0-T/Short/medium,lstm,0.4880550257193166,"['Networking', 'Application Usage']",1
+ds-0-T,medium,ds-0-T/Short/medium,tft,0.5301340087278683,"['Networking', 'Application Usage']",1
+ds-0-T,long,ds-0-T/Short/long,persistence,0.4486339309631041,"['Networking', 'Application Usage']",1
+ds-0-T,long,ds-0-T/Short/long,seasonalnaive,0.5709795514748331,"['Networking', 'Application Usage']",1
+ds-0-T,long,ds-0-T/Short/long,lstm,0.466107536082955,"['Networking', 'Application Usage']",1
+ds-0-T,long,ds-0-T/Short/long,tft,0.4438456528260972,"['Networking', 'Application Usage']",1
+ds-1-T,short,ds-1-T/Short/short,persistence,0.0365239230861225,['Infrastructure'],35
+ds-1-T,short,ds-1-T/Short/short,seasonalnaive,0.657498192923689,['Infrastructure'],35
+ds-1-T,short,ds-1-T/Short/short,lstm,0.0872797028798887,['Infrastructure'],35
+ds-1-T,short,ds-1-T/Short/short,tft,0.6620446188395835,['Infrastructure'],35
+ds-1-T,medium,ds-1-T/Short/medium,persistence,0.1483139636699046,['Infrastructure'],35
+ds-1-T,medium,ds-1-T/Short/medium,seasonalnaive,0.6596149425553793,['Infrastructure'],35
+ds-1-T,medium,ds-1-T/Short/medium,lstm,1.0305718481810926,['Infrastructure'],35
+ds-1-T,medium,ds-1-T/Short/medium,tft,0.7149423600018395,['Infrastructure'],35
+ds-1-T,long,ds-1-T/Short/long,persistence,0.4525745883552299,['Infrastructure'],35
+ds-1-T,long,ds-1-T/Short/long,seasonalnaive,0.8821733021557475,['Infrastructure'],35
+ds-1-T,long,ds-1-T/Short/long,lstm,1.3759617397752733,['Infrastructure'],35
+ds-1-T,long,ds-1-T/Short/long,tft,0.7347069847941362,['Infrastructure'],35
+ds-5-T,short,ds-5-T/Short/short,persistence,1.062997423516597,"['Networking', 'Application Usage']",19
+ds-5-T,short,ds-5-T/Short/short,seasonalnaive,1.2596421733762,"['Networking', 'Application Usage']",19
+ds-5-T,short,ds-5-T/Short/short,lstm,0.8173338386003709,"['Networking', 'Application Usage']",19
+ds-5-T,short,ds-5-T/Short/short,tft,0.9510642672681128,"['Networking', 'Application Usage']",19
+ds-5-T,medium,ds-5-T/Short/medium,persistence,1.001458235001432,"['Networking', 'Application Usage']",19
+ds-5-T,medium,ds-5-T/Short/medium,seasonalnaive,1.1660665168318065,"['Networking', 'Application Usage']",19
+ds-5-T,medium,ds-5-T/Short/medium,lstm,0.7825619124670975,"['Networking', 'Application Usage']",19
+ds-5-T,medium,ds-5-T/Short/medium,tft,1.0397103511435024,"['Networking', 'Application Usage']",19
+ds-5-T,long,ds-5-T/Short/long,persistence,1.0143536518557044,"['Networking', 'Application Usage']",19
+ds-5-T,long,ds-5-T/Short/long,seasonalnaive,1.250037539031845,"['Networking', 'Application Usage']",19
+ds-5-T,long,ds-5-T/Short/long,lstm,0.9460461168507238,"['Networking', 'Application Usage']",19
+ds-5-T,long,ds-5-T/Short/long,tft,1.0018406872248655,"['Networking', 'Application Usage']",19
+ds-3-10S,short,ds-3-10S/Short/short,persistence,0.7750479977572119,['Infrastructure'],33
+ds-3-10S,short,ds-3-10S/Short/short,seasonalnaive,3.332136344771441,['Infrastructure'],33
+ds-3-10S,short,ds-3-10S/Short/short,lstm,4.092114237853767,['Infrastructure'],33
+ds-3-10S,short,ds-3-10S/Short/short,tft,6.11015106220777,['Infrastructure'],33
+ds-3-10S,medium,ds-3-10S/Short/medium,persistence,2.2468920331576427,['Infrastructure'],33
+ds-3-10S,medium,ds-3-10S/Short/medium,seasonalnaive,3.745355148071433,['Infrastructure'],33
+ds-3-10S,medium,ds-3-10S/Short/medium,lstm,4.077708969226523,['Infrastructure'],33
+ds-3-10S,medium,ds-3-10S/Short/medium,tft,5.153874069987831,['Infrastructure'],33
+ds-3-10S,long,ds-3-10S/Short/long,persistence,2.7664126315981337,['Infrastructure'],33
+ds-3-10S,long,ds-3-10S/Short/long,seasonalnaive,3.042152825406921,['Infrastructure'],33
+ds-3-10S,long,ds-3-10S/Short/long,lstm,4.100196831523952,['Infrastructure'],33
+ds-3-10S,long,ds-3-10S/Short/long,tft,5.002104144799554,['Infrastructure'],33
+ds-7-10S,short,ds-7-10S/Short/short,persistence,19.969925272557465,['Infrastructure'],88
+ds-7-10S,short,ds-7-10S/Short/short,seasonalnaive,67.93438958199881,['Infrastructure'],88
+ds-7-10S,short,ds-7-10S/Short/short,lstm,69.3388839925574,['Infrastructure'],88
+ds-7-10S,short,ds-7-10S/Short/short,tft,105.56776941564095,['Infrastructure'],88
+ds-7-10S,medium,ds-7-10S/Short/medium,persistence,44.27296005457421,['Infrastructure'],88
+ds-7-10S,medium,ds-7-10S/Short/medium,seasonalnaive,60.53972399852994,['Infrastructure'],88
+ds-7-10S,medium,ds-7-10S/Short/medium,lstm,64.71779609437525,['Infrastructure'],88
+ds-7-10S,medium,ds-7-10S/Short/medium,tft,87.08044811807324,['Infrastructure'],88
+ds-7-10S,long,ds-7-10S/Short/long,persistence,59.94495683913161,['Infrastructure'],88
+ds-7-10S,long,ds-7-10S/Short/long,seasonalnaive,67.9539029732136,['Infrastructure'],88
+ds-7-10S,long,ds-7-10S/Short/long,lstm,67.5935535746456,['Infrastructure'],88
+ds-7-10S,long,ds-7-10S/Short/long,tft,87.23612911072007,['Infrastructure'],88
+ds-12-10S,short,ds-12-10S/Short/short,persistence,0.0,['Infrastructure'],1
+ds-12-10S,short,ds-12-10S/Short/short,seasonalnaive,0.0,['Infrastructure'],1
+ds-12-10S,short,ds-12-10S/Short/short,lstm,0.0260417817431132,['Infrastructure'],1
+ds-12-10S,short,ds-12-10S/Short/short,tft,0.0004442988402474,['Infrastructure'],1
+ds-12-10S,medium,ds-12-10S/Short/medium,persistence,0.0,['Infrastructure'],1
+ds-12-10S,medium,ds-12-10S/Short/medium,seasonalnaive,0.0,['Infrastructure'],1
+ds-12-10S,medium,ds-12-10S/Short/medium,lstm,1.3617532875154104,['Infrastructure'],1
+ds-12-10S,medium,ds-12-10S/Short/medium,tft,0.0001816205738468,['Infrastructure'],1
+ds-12-10S,long,ds-12-10S/Short/long,persistence,0.0,['Infrastructure'],1
+ds-12-10S,long,ds-12-10S/Short/long,seasonalnaive,0.0,['Infrastructure'],1
+ds-12-10S,long,ds-12-10S/Short/long,lstm,1.3241328890961477,['Infrastructure'],1
+ds-12-10S,long,ds-12-10S/Short/long,tft,6.667346849797828e-05,['Infrastructure'],1
+ds-1676-30T,short,ds-1676-30T/Short/short,persistence,0.8000134860504291,['Database'],100
+ds-1676-30T,short,ds-1676-30T/Short/short,seasonalnaive,1.0766972732524065,['Database'],100
+ds-1676-30T,short,ds-1676-30T/Short/short,lstm,1.128900194620438,['Database'],100
+ds-1676-30T,short,ds-1676-30T/Short/short,tft,1.5323935196575786,['Database'],100
+ds-1676-30T,medium,ds-1676-30T/Short/medium,persistence,1.3110907260634297,['Database'],100
+ds-1676-30T,medium,ds-1676-30T/Short/medium,seasonalnaive,1.3007429350796884,['Database'],100
+ds-1676-30T,medium,ds-1676-30T/Short/medium,lstm,1.091950404443301,['Database'],100
+ds-1676-30T,medium,ds-1676-30T/Short/medium,tft,1.3589409428342023,['Database'],100
+ds-1676-30T,long,ds-1676-30T/Short/long,persistence,1.023395660657359,['Database'],100
+ds-1676-30T,long,ds-1676-30T/Short/long,seasonalnaive,1.144048989457085,['Database'],100
+ds-1676-30T,long,ds-1676-30T/Short/long,lstm,1.0967737963758373,['Database'],100
+ds-1676-30T,long,ds-1676-30T/Short/long,tft,1.2794078898502663,['Database'],100
+ds-1675-30T,short,ds-1675-30T/Short/short,persistence,0.1342703447478451,['Database'],1
+ds-1675-30T,short,ds-1675-30T/Short/short,seasonalnaive,0.2918554421733129,['Database'],1
+ds-1675-30T,short,ds-1675-30T/Short/short,lstm,1.7534030342510627,['Database'],1
+ds-1675-30T,short,ds-1675-30T/Short/short,tft,0.4985543810568428,['Database'],1
+ds-1675-30T,medium,ds-1675-30T/Short/medium,persistence,0.6846223718761538,['Database'],1
+ds-1675-30T,medium,ds-1675-30T/Short/medium,seasonalnaive,0.6892485913466095,['Database'],1
+ds-1675-30T,medium,ds-1675-30T/Short/medium,lstm,0.7106512702194961,['Database'],1
+ds-1675-30T,medium,ds-1675-30T/Short/medium,tft,0.3716081732322062,['Database'],1
+ds-1675-30T,long,ds-1675-30T/Short/long,persistence,0.3305116527915396,['Database'],1
+ds-1675-30T,long,ds-1675-30T/Short/long,seasonalnaive,0.3354236072904203,['Database'],1
+ds-1675-30T,long,ds-1675-30T/Short/long,lstm,1.515211498575914,['Database'],1
+ds-1675-30T,long,ds-1675-30T/Short/long,tft,0.3000217288590001,['Database'],1
+ds-1672-30T,short,ds-1672-30T/Short/short,persistence,0.3501967125626867,['Database'],2
+ds-1672-30T,short,ds-1672-30T/Short/short,seasonalnaive,0.6685201469738915,['Database'],2
+ds-1672-30T,short,ds-1672-30T/Short/short,lstm,1.4336112233551388,['Database'],2
+ds-1672-30T,short,ds-1672-30T/Short/short,tft,1.9543581393638645,['Database'],2
+ds-1672-30T,medium,ds-1672-30T/Short/medium,persistence,1.5596042993880457,['Database'],2
+ds-1672-30T,medium,ds-1672-30T/Short/medium,seasonalnaive,1.582515786567465,['Database'],2
+ds-1672-30T,medium,ds-1672-30T/Short/medium,lstm,1.124343982207672,['Database'],2
+ds-1672-30T,medium,ds-1672-30T/Short/medium,tft,0.5437221554073514,['Database'],2
+ds-1672-30T,long,ds-1672-30T/Short/long,persistence,1.2770748824574956,['Database'],2
+ds-1672-30T,long,ds-1672-30T/Short/long,seasonalnaive,1.2611133846163505,['Database'],2
+ds-1672-30T,long,ds-1672-30T/Short/long,lstm,1.0362021380390682,['Database'],2
+ds-1672-30T,long,ds-1672-30T/Short/long,tft,0.8644926827947624,['Database'],2
+ds-1683-H,short,ds-1683-H/Medium/short,persistence,2.6582616730003004,['Database'],1
+ds-1683-H,short,ds-1683-H/Medium/short,seasonalnaive,2.731704932835992,['Database'],1
+ds-1683-H,short,ds-1683-H/Medium/short,lstm,2.2096965545170466,['Database'],1
+ds-1683-H,short,ds-1683-H/Medium/short,tft,2.790712908792168,['Database'],1
+ds-1683-H,medium,ds-1683-H/Medium/medium,persistence,1.6156197913023629,['Database'],1
+ds-1683-H,medium,ds-1683-H/Medium/medium,seasonalnaive,1.637362206948967,['Database'],1
+ds-1683-H,medium,ds-1683-H/Medium/medium,lstm,1.6857510769749298,['Database'],1
+ds-1683-H,medium,ds-1683-H/Medium/medium,tft,1.5934933923321584,['Database'],1
+ds-1683-H,long,ds-1683-H/Medium/long,persistence,1.832212725751441,['Database'],1
+ds-1683-H,long,ds-1683-H/Medium/long,seasonalnaive,1.8360759219389955,['Database'],1
+ds-1683-H,long,ds-1683-H/Medium/long,lstm,1.9414920930328372,['Database'],1
+ds-1683-H,long,ds-1683-H/Medium/long,tft,2.077272923424868,['Database'],1
+ds-1678-H,short,ds-1678-H/Medium/short,persistence,1.219402648264204,['Database'],100
+ds-1678-H,short,ds-1678-H/Medium/short,seasonalnaive,1.439336289317562,['Database'],100
+ds-1678-H,short,ds-1678-H/Medium/short,lstm,1.2444672587947032,['Database'],100
+ds-1678-H,short,ds-1678-H/Medium/short,tft,1.5814691645506336,['Database'],100
+ds-1678-H,medium,ds-1678-H/Medium/medium,persistence,1.438589515346235,['Database'],100
+ds-1678-H,medium,ds-1678-H/Medium/medium,seasonalnaive,1.4527043521982832,['Database'],100
+ds-1678-H,medium,ds-1678-H/Medium/medium,lstm,1.1466826161302943,['Database'],100
+ds-1678-H,medium,ds-1678-H/Medium/medium,tft,1.185290021427597,['Database'],100
+ds-1678-H,long,ds-1678-H/Medium/long,persistence,1.3547805877435537,['Database'],100
+ds-1678-H,long,ds-1678-H/Medium/long,seasonalnaive,1.296877342702034,['Database'],100
+ds-1678-H,long,ds-1678-H/Medium/long,lstm,1.16769481296068,['Database'],100
+ds-1678-H,long,ds-1678-H/Medium/long,tft,1.2485104840646892,['Database'],100
+ds-1677-H,short,ds-1677-H/Medium/short,persistence,0.9267831299348096,['Database'],100
+ds-1677-H,short,ds-1677-H/Medium/short,seasonalnaive,1.0201478886504547,['Database'],100
+ds-1677-H,short,ds-1677-H/Medium/short,lstm,1.3712182921049298,['Database'],100
+ds-1677-H,short,ds-1677-H/Medium/short,tft,1.8329527514014503,['Database'],100
+ds-1677-H,medium,ds-1677-H/Medium/medium,persistence,1.067205936458596,['Database'],100
+ds-1677-H,medium,ds-1677-H/Medium/medium,seasonalnaive,1.080988761492902,['Database'],100
+ds-1677-H,medium,ds-1677-H/Medium/medium,lstm,1.2312478188432456,['Database'],100
+ds-1677-H,medium,ds-1677-H/Medium/medium,tft,1.4669813708591928,['Database'],100
+ds-1677-H,long,ds-1677-H/Medium/long,persistence,1.039244802753838,['Database'],100
+ds-1677-H,long,ds-1677-H/Medium/long,seasonalnaive,1.0921021316581256,['Database'],100
+ds-1677-H,long,ds-1677-H/Medium/long,lstm,1.296405119026799,['Database'],100
+ds-1677-H,long,ds-1677-H/Medium/long,tft,1.520108488795564,['Database'],100
+ds-1679-D,short,ds-1679-D/Long/short,persistence,0.5010241144137726,['Database'],54
+ds-1679-D,short,ds-1679-D/Long/short,seasonalnaive,0.5010241157557845,['Database'],54
+ds-1679-D,short,ds-1679-D/Long/short,lstm,0.8052451284655116,['Database'],54
+ds-1679-D,short,ds-1679-D/Long/short,tft,1.0229675450663458,['Database'],54
+ds-1671-D,short,ds-1671-D/Long/short,persistence,0.9936461725146788,['Database'],1
+ds-1671-D,short,ds-1671-D/Long/short,seasonalnaive,0.99364614523814,['Database'],1
+ds-1671-D,short,ds-1671-D/Long/short,lstm,1.1704647547474976,['Database'],1
+ds-1671-D,short,ds-1671-D/Long/short,tft,0.8866248172071602,['Database'],1
+ds-1674-D,short,ds-1674-D/Long/short,persistence,1.9057734667247093,['Database'],2
+ds-1674-D,short,ds-1674-D/Long/short,seasonalnaive,1.9057734659875265,['Database'],2
+ds-1674-D,short,ds-1674-D/Long/short,lstm,2.870240182784097,['Database'],2
+ds-1674-D,short,ds-1674-D/Long/short,tft,1.6775103228839343,['Database'],2

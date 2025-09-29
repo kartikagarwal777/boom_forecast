@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+numpy = "*"
+pandas = "==2.1.4"
+dotenv = "*"
+gluonts = {version = "*", extras = ["torch"]}
+torch = ">=2.1"
+pytorch-lightning = "*"
+pytorch-forecasting = "*"
+statsforecast = "*"
+datasets = ">=2.14.0"
+matplotlib = "*"
+tqdm = "*"
+huggingface-hub = {extras = ["cli"], version = "*"}
+scikit-learn = "*"
+pmdarima = "*"
+gift-eval = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"
