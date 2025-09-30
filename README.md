@@ -93,6 +93,8 @@ Visualization
 
 - LSTM and TFT perform worse on raw error metrics This suggests high-frequency data may be dominated by noise and short-term volatility, making simple baselines competitive.
 
+- AUTOARIMA or models such as ADIDA, which work better for intermittent demand
+
 Insight: For ultra-granular telemetry, simple methods may outperform complex architectures due to overfitting and noise sensitivity.
 
 ## Medium-frequency data
